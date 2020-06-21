@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat-Bold.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair';
+    src: url(../fonts/PlayfairDisplay.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
